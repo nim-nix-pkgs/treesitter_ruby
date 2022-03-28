@@ -11,8 +11,8 @@
   inputs.src-treesitter_ruby-master.ref   = "refs/heads/master";
   inputs.src-treesitter_ruby-master.owner = "genotrance";
   inputs.src-treesitter_ruby-master.repo  = "nimtreesitter";
-  inputs.src-treesitter_ruby-master.dir   = "treesitter_ruby";
-  inputs.src-treesitter_ruby-master.type  = "github";
+    inputs.src-treesitter_ruby-master.dir   = "treesitter_ruby";
+inputs.src-treesitter_ruby-master.type  = "github";
   
   inputs."nimgen".owner = "nim-nix-pkgs";
   inputs."nimgen".ref   = "master";
